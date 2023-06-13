@@ -8,4 +8,11 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  m_configObjects: {}
+  - enabled: 0
+    path: Assets/Stylized Top Down Interiors Megapack/Scenes/Scene_1.unity
+    guid: c737a51f3fab0ab4182ff102ab6b9deb
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 12e688d4cdd9c8a45a10dc312b0143c6,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0346c71a47f07774384ae396e22960b3,
+      type: 2}
